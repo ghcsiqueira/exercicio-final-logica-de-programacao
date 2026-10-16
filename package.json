@@ -1,0 +1,22 @@
+
+{
+  "name": "exercicio-final-logica-de-programacao",
+  "version": "1.0.0",
+  "description": "Exercício de lógica de programação com vetores",
+  "main": "src/avaliacaoFilmes.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghcsiqueira/exercicio-final-logica-de-programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ghcsiqueira/exercicio-final-logica-de-programacao/issues"
+  },
+  "homepage": "https://github.com/ghcsiqueira/exercicio-final-logica-de-programacao#readme"
+}
